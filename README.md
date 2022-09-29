@@ -16,7 +16,7 @@ to install the packages in [`requirements.txt`](requirements.txt)
 This assignment is due Thursday, October 6 at 11:59 pm (midnight) Chicago time.
 
 ### Git
-You will need to use basic `git` in this assignment.  See [this tutorial](https://github.com/caam37830/git-tutorial) if you have never used it before.  The basic commands to know are:
+You will need to use basic `git` in this assignment.  See [this tutorial](https://github.com/caam37830-fall-2022/git-tutorial) if you have never used it before.  The basic commands to know are:
 * `git clone`
 * `git pull`
 * `git add`
