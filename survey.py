@@ -10,3 +10,6 @@ Print answers to the following
 7. What is something you would like to learn in this course?
 8. Do you have any questions or concerns you would like to share?
 """
+print ("Ziheng Yun")
+print ("M.S. CAM, first year")
+print ("Numerical Analysis/ Numerical solutions to differential equations")
